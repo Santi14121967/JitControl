@@ -1,3 +1,0 @@
-prueba 2
-prueba 3
-Estamos en la rama data-model
